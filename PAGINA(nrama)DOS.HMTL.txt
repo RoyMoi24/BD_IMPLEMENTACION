@@ -1,11 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+<style> 
+
+    h1{
+color: blue;
+        font-size: 24px;
+        font-family: 'Courier New', Courier, monospace; 
+    };
+    p {
+        color: green;
+        font-size: 18px;
+        font-family: Arial, sans-serif;
+    }
+</style> 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
-    
+    <h1> Nuevo titulo </h1> 
+      <p> PÁRRAFO DE INTEGRACION DE NUEVOS DATOS</p>
+  <br>
+    <p> Este es un párrafo adicional para demostrar la integración de nuevos datos en el documento HTML. </p>
 </body>
 </html>
